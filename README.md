@@ -25,7 +25,7 @@ If you need further control over specific files within a directory on your serve
 
 In addition to the configuration methods discussed above, by default Apache will read configuration options for a directory from a file located in that directory. This file is typically called .htaccess.
 
-*Location Options*
+__Location Options__
 
 
 
