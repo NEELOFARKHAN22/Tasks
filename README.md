@@ -17,7 +17,7 @@ The <virtualHost> contains directives referring to one host.
 `ServerName www.butterthlies.com` 
 `</VirtualHost>`
 
-**File and Location Options**
+** File and Location Options **
 
 If you need further control over specific files within a directory on your server, use the <Files> directive. This directive controls the behavior of the web server with regard to a single file. The <Files> directives will apply to any file with the specified name.
 
