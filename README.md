@@ -11,7 +11,8 @@ The certonly generates the certificate per run per certificate. but renew can re
 # 4. Study On Directory Block:
 ```sh
 The <virtualHost> contains directives referring to one host.
-```<VirtualHost *80>```
+
+<VirtualHost *80>
 `ServerAdmin doamin.com`
 `DocumentRoot /usr/www/site.virtual/` 
 `ServerName www.butterthlies.com` 
